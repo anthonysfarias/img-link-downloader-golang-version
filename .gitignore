@@ -1,0 +1,24 @@
+# Arquivos de compilação e executáveis
+*.exe
+*.out
+*.test
+
+# Arquivos de log e dump
+*.log
+*.log.*
+*.dump
+
+# Diretório de construção
+/build
+
+# Arquivos gerados pelo Go
+*.exe
+*.test
+*.prof
+
+# Diretório de módulos Go
+/go.sum
+
+# Arquivos de configuração específicos do sistema operacional
+.idea
+.vscode
